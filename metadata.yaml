@@ -1,0 +1,29 @@
+_repo: Impressions-of-England-or-Sketches-of-English-Scenery-and-Society_53952
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coxe, A. Cleveland (Arthur Cleveland)
+    aliases:
+    - Coxe, Arthur Cleveland, Bp.
+    - Cox, Arthur Cleveland
+    - Coxe, Arthur Cleveland
+    birthdate: 1818
+    deathdate: 1896
+    gutenberg_agent_id: '47638'
+    url: http://www.gutenberg.org/2009/agents/47638
+description: ''
+gutenberg_issued: '2017-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53952'
+  lccn: 03001387
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: Impressions of England; or, Sketches of English Scenery and Society
+url: http://www.gutenberg.org/ebooks/53952
